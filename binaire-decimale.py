@@ -1,6 +1,6 @@
 def Binary(n):
-    a=len(str(n))   #la valeur a calcule combien y a t-il de characters dans n
-                    # Mais il faut convertir len n sous forme de chaîne de chartères
+    a=len(str(n))   #we have to calculate the number of characters in the nimber "n"
+                    #but first of all we have to convert the number "n" into characters
     n=int(n)
     c=0
     p=0
